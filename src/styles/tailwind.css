@@ -1,0 +1,59 @@
+/* styles/tailwind.css */
+
+/* Utility classes provided by Tailwind CSS */
+/* Example classes */
+
+/* Background color */
+.bg-blue-500 {
+    background-color: #4299e1;
+  }
+  
+  .bg-red-500 {
+    background-color: #f56565;
+  }
+  
+  /* Text color */
+  .text-white {
+    color: #fff;
+  }
+  
+  .text-gray-800 {
+    color: #2d3748;
+  }
+  
+  /* Padding and margin */
+  .p-4 {
+    padding: 1rem;
+  }
+  
+  .m-2 {
+    margin: 0.5rem;
+  }
+  
+  /* Flexbox */
+  .flex {
+    display: flex;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  /* Font size */
+  .text-lg {
+    font-size: 1.125rem;
+  }
+  
+  /* Hover effect */
+  .hover:bg-gray-200:hover {
+    background-color: #e2e8f0;
+  }
+  
+  /* Border */
+  .border {
+    border: 1px solid #e2e8f0;
+  }
+  
+  /* Define other styles as needed */
+  /* You can add your custom styles or additional Tailwind classes here */
+  
